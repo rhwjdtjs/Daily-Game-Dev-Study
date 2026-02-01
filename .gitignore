@@ -1,0 +1,17 @@
+# Visual Studio common ignores
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+/x64/
+/Debug/
+/Release/
+*.obj
+*.pdb
+*.ipch
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
