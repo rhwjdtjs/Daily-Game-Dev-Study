@@ -18,7 +18,7 @@
 1. **Issue 생성**: 공부할 주제 등록 (ex: `A* 알고리즘 구현`)
 2. **Branch 생성**: Issue 번호 기반 (ex: `feature/astar-#1`)
 3. **Commit**: 학습 내용 커밋
-4. **Pull Request**: 요약 및 정리 후 Merge (Self-Merge)
+4. **Pull Request**: 요약 및 정리 후 Merge (Self-Merge)(md형식)
 
 ---
 *Consistent action creates consistent results.*
